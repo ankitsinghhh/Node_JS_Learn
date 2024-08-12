@@ -1,0 +1,15 @@
+output terminal:
+
+hello world
+result: 22637556228
+file data:  hello bro what are you doing
+Fetched Data successfully
+This is a timeout message after 5s
+
+when readFilesync is used:
+hello world
+synchronously fetched data: hello bro what are you doing
+result:  22637556228
+file data:  hello bro what are you doing    
+Fetched Data successfully
+This is a timeout message after 5s
